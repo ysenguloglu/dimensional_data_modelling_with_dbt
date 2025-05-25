@@ -28,11 +28,11 @@ Good work to all of you!
 
 ### Dimensional Data Modelling Phases
 
-- Conceptual Phase  
+- **Conceptual Phase**
   ![conceptual_phase_diagram](ae_bootcamp/phase_images/conceptual_phase.png)
 
-- Logical Phase  
+- **Logical Phase**  
   ![logical_phase_diagram](ae_bootcamp/phase_images/logical_phase.png)
 
-- Physical Phase  
+- **Physical Phase**
   ![physical_phase_diagram](ae_bootcamp/phase_images/physical_phase.png)
