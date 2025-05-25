@@ -12,13 +12,11 @@ I've buildid this model at WSL and used virtual enviroment.
 
 ### Dimensional Data Modelling Phases
 
-- Conceptual Phase
-![conceptual_phase_diagram](phase_images/conceptual_phase.png)
+- Conceptual Phase  
+  ![conceptual_phase_diagram](phase_images/conceptual_phase.png)
 
+- Logical Phase  
+  ![logical_phase_diagram](phase_images/logical_phase.png)
 
-- Logical Phase
-![logical_phase_diagram](phase_images/logical_phase.png)
-
-
-- Physical Phase
-![physical_phase_diagram](phase_images/physical_phase.png)
+- Physical Phase  
+  ![physical_phase_diagram](phase_images/physical_phase.png)
