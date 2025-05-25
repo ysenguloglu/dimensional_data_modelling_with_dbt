@@ -13,10 +13,10 @@ I've buildid this model at WSL and used virtual enviroment.
 ### Dimensional Data Modelling Phases
 
 - Conceptual Phase  
-  ![conceptual_phase_diagram](phase_images/conceptual_phase.png)
+  ![conceptual_phase_diagram](ae_bootcamp/phase_images/conceptual_phase.png)
 
 - Logical Phase  
-  ![logical_phase_diagram](phase_images/logical_phase.png)
+  ![logical_phase_diagram](ae_bootcamp/phase_images/logical_phase.png)
 
 - Physical Phase  
-  ![physical_phase_diagram](phase_images/physical_phase.png)
+  ![physical_phase_diagram](ae_bootcamp/phase_images/physical_phase.png)
